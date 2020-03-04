@@ -20,8 +20,8 @@
 ## 世界銀行
 - 取得URL: https://datahelpdesk.worldbank.org/knowledgebase/articles/898590-country-api-queries
 - 取得日: 令和2年3月4日
-- 後処理: XMLファイルをcsv形式へ変更した
-- ファイル: 
+- 後処理: XMLファイルをcsv形式へ変更した。
+- ファイル: worldbank.csv
 
 ## 国連
 
